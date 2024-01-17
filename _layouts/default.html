@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "es-ES" }}">
+  <head>
+    <meta charset="UTF-8">
+    
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <base href="./">
+
+    <style>
+        footer {
+            background-color: #f8f8f8;
+            padding: 20px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        /* Estilos para las imágenes en el footer */
+        .footer-logo {
+            width: 100px; /* Ajusta el tamaño según tus necesidades */
+            margin-right: 10px;
+        }
+    </style>
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Listado de Trainings de la Universidad de Extremadura</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+      <nav class="mainNav">
+        <ul class="nav-list">
+            
+          <li class="nav-element">
+            <a href="/Trainings/" class="active">
+              Listado de Trainings
+            </a>
+          </li>           
+        </ul>
+      </nav>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
+
+    <footer>
+        <!-- Imágenes en el footer -->
+        <img class="footer-logo" src="http://www.dih4e.eu/wp-content/uploads/2021/03/uex.jpg" alt="Logo 1">
+        <img class="footer-logo" src="http://www.dih4e.eu/wp-content/uploads/2021/03/diputacion-badajoz.jpg" alt="Logo 2">
+
+        <!-- Texto de derechos de autor -->
+        <!--<p>&copy; 2024 Tu Nombre</p> -->
+    </footer>
+    
+  </body>
+</html>
