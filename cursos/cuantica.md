@@ -7,17 +7,7 @@ navigation_weight: 2
 
 En este curso se presentan los principios fundamentales del desarrollo del software cuántico.
 
-### Aforo
-- Más de 20 asistentes
 
-### Duración
-- De 4 a 8 horas
-
-### País en donde está disponible
-- España
-
-### Idiomas
-- Español e Inglés
 
 ### Objetivos
 - Comprender los principios básicos del desarrollo de software cuántico
@@ -34,6 +24,18 @@ En este curso se presentan los principios fundamentales del desarrollo del softw
   - Magnitud, fase y amplitud
   - Transformada cuántica de Fourier
 
+### Aforo
+- Más de 20 asistentes
+
+### Duración
+- De 4 a 8 horas
+
+### País en donde está disponible
+- España
+
+### Idiomas
+- Español e Inglés
+
 ### Técnica
 - Conferencia
 - Ejercicios prácticos
@@ -43,18 +45,4 @@ En este curso se presentan los principios fundamentales del desarrollo del softw
 - Cara a cara
 - En línea
 
-### Ciclo de absorción de la tecnología
-- Contingencia tecnológica
 
-### Grupo objetivo
-- Ingenieros
-
-### Nivel de instrucción
-- Altamente cualificado
-
-### Sector
-- Informática
-
-### Nivel educativo
-- Máster
-- Doctorado
