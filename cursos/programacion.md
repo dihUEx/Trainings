@@ -9,6 +9,7 @@ navigation_weight: 2
 
 El programa está orientado a mejorar las conocimientos de los trabajadores de las empresas en el ámbido de la programación de computadores, con el fin de potenciar su competencia en el mercado laboral tecnológico.
 
+## Plazas Limitadas / Reserva tu plaza
 [**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
 
 ### Objetivos
@@ -26,24 +27,6 @@ El programa está orientado a mejorar las conocimientos de los trabajadores de l
 - Módulos
 - Clases
 
-### Aforo
-- De 10 a 20 asistentes
 
-### Duración
-- De 1 4 horas
-
-### País en donde está disponible
-- España
-- UE
-
-### Idiomas
-- Español
-
-### Técnica
-- Talleres de Trabajo
-
-### Canales disponibles
-- Cara a cara
-- En línea
 
 

@@ -11,6 +11,7 @@ El programa está diseñado para mejorar las habilidades y conocimientos de los 
 
 
 
+## Plazas Limitadas / Reserva tu plaza
 [**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
 
 ### Objetivos
@@ -23,23 +24,6 @@ El programa está diseñado para mejorar las habilidades y conocimientos de los 
 - Infraestructura de red, conectividad, almacenamiento, control y visualización de sistemas de control de arquitectura abierta.
 - Control de una instalación existente mediante un sistema centralizado: prototipo INNOINVEST
 
-### Aforo
-- De 10 a 20 asistentes
 
-### Duración
-- De 4 a 8 horas
-
-### País en donde está disponible
-- España
-
-### Idiomas
-- Español
-
-### Técnica
-- Conferencia
-
-### Canales disponibles
-- Cara a cara
-- En línea
 
 

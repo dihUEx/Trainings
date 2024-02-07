@@ -11,6 +11,7 @@ Introducción a las redes neuronales utilizando PyTorch
 
 
 
+## Plazas Limitadas / Reserva tu plaza
 [**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
 
 ### Objetivos
@@ -23,23 +24,5 @@ Introducción a las redes neuronales utilizando PyTorch
 - Creación de modelos
 - Aprendizaje
 
-### Aforo
-- De 10 a 20 asistentes
-
-### Duración
-- De 4 a 8 horas
-
-### País en donde está disponible
-- España
-
-### Idiomas
-- Español
-
-### Técnica
-- Talleres de Trabajo
-- Video
-
-### Canales disponibles
-- En línea
 
 

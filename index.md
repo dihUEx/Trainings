@@ -50,15 +50,11 @@ layout: default
 
 - [**Introducción al aprendizaje profundo por refuerzo (DRL)**](https://dihuex.github.io/trainings/cursos/DRL.html)
 
-- [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
+- [**Montaje, configuración y usos de un dron (UAV)**](https://dihuex.github.io/trainings/cursos/UAVs.html)
 
-- [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
+- [**Introducción al cloud to thing**](https://dihuex.github.io/trainings/cursos/cloudToThing.html)
 
-- [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
-
-- [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
-
-- [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
+- [**Introducción al diseño de software cuántico**](https://dihuex.github.io/trainings/cursos/Introducción al diseño de software cuántico.html)
 
 
 

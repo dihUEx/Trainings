@@ -11,6 +11,7 @@ Todas las industrias poseen numerosos equipos o sistemas. Todos estos equipos fa
 
 
 
+## Plazas Limitadas / Reserva tu plaza
 [**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
 
 ### Objetivos
@@ -27,24 +28,6 @@ Todas las industrias poseen numerosos equipos o sistemas. Todos estos equipos fa
 - Estimación del tiempo de vida útil de un sistema
 - Optimización de la estrategia de mantenimiento
 
-### Aforo
-- De 10 a 20 asistentes
 
-### Duración
-- De 4 a 8 horas
-
-### País en donde está disponible
-- España
-
-### Idiomas
-- Español e Inglés
-
-### Técnica
-- Conferencia
-- Sesión práctica en el laboratorio
-
-### Canales disponibles
-- Cara a cara
-- En línea
 
 

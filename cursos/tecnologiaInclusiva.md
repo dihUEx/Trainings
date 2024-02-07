@@ -11,6 +11,7 @@ navigation_weight: 2
 
 
 
+## Plazas Limitadas / Reserva tu plaza
 [**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
 
 ### Objetivos
@@ -29,23 +30,6 @@ navigation_weight: 2
 - Tecnologías para la accesibilidad en el transporte, ocio, deporte y cultura.
 - Robolab. Avances en robótica y TICs para personas con discapacidad.
 
-### Aforo
-- De 10 a 20 asistentes
 
-### Duración
-- De 1 a 4 horas
-- De 4 a 8 horas
-
-### País en donde está disponible
-- España
-
-### Idiomas
-- Español
-
-### Técnica
-- Seminarios web
-
-### Canales disponibles
-- En línea
 
 

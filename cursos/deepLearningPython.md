@@ -11,6 +11,7 @@ En los últimos años, dentro de la disciplina del aprendizaje automático, una 
 
 
 
+## Plazas Limitadas / Reserva tu plaza
 [**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
 
 ### Objetivos
@@ -29,23 +30,5 @@ En los últimos años, dentro de la disciplina del aprendizaje automático, una 
  
 **Se recomienda tener conocimientos básicos de programación en Phyton
 
-### Aforo
-- De 10 a 20 asistentes
-
-### Duración
-- De 4 a 8 horas
-
-### País en donde está disponible
-- España
-
-### Idiomas
-- Español
-
-### Técnica
-- Seminarios web
-
-### Canales disponibles
-- Cara a cara
-- En línea
 
 

@@ -11,6 +11,7 @@ El programa está diseñado para mejorar las habilidades y conocimientos de los 
 
 
 
+## Plazas Limitadas / Reserva tu plaza
 [**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
 
 ### Objetivos
@@ -25,24 +26,6 @@ El programa está diseñado para mejorar las habilidades y conocimientos de los 
 - Almacenamiento y Visualización de datos
 - Desarrollo de proyectos de sistemas IoT
 
-### Aforo
-- De 10 a 20 asistentes
 
-### Duración
-- De 1 a 3 días
-
-### País en donde está disponible
-- España
-
-### Idiomas
-- Español
-
-### Técnica
-- Seminarios web
-- Sesión práctica en el laboratorio
-
-### Canales disponibles
-- Cara a cara
-- En línea
 
 

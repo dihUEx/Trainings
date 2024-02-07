@@ -26,7 +26,5 @@ Conceptos teóricos fundamentales del DRL. Se trabaja sobre ejercicios práctico
 - Implementación de varios modelos de DRL.
 - Aprender a mostrar e interpretar los resultados con TensorBoard.
 
-### 
-### 
 
 

@@ -11,6 +11,7 @@ En este curso se presentan los principios fundamentales de la estadística bayes
 
 
 
+## Plazas Limitadas / Reserva tu plaza
 [**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
 
 ### Objetivos
@@ -26,26 +27,8 @@ En este curso se presentan los principios fundamentales de la estadística bayes
  
 - Aplicaciones
 
-### Tecnología
-- Análisis de datos
 
-### Aforo
-- De 10 a 20 asistentes
 
-### Duración
-- De 1 a 4 horas
 
-### País en donde está disponible
-- España
-
-### Idiomas
-- Español
-
-### Técnica
-- Conferencia
-
-### Canales disponibles
-- Cara a cara
-- En línea
 
 

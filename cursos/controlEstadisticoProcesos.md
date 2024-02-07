@@ -13,6 +13,7 @@ El control estadístico de procesos consiste en la aplicación de métodos estad
 
 
 
+## Plazas Limitadas / Reserva tu plaza
 [**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
 
 ### Objetivos
@@ -29,24 +30,6 @@ El control estadístico de procesos consiste en la aplicación de métodos estad
 - Gráficos de control para atributos
 - Diseño de experimentos para la mejora de la calidad
 
-### Aforo
-- De 10 a 20 asistentes
 
-### Duración
-- De 4 a 8 horas
-
-### País en donde está disponible
-- España
-
-### Idiomas
-- Español
-
-### Técnica
-- Conferencia
-- Sesión práctica en el laboratorio
-
-### Canales disponibles
-- Cara a cara
-- En línea
 
 
