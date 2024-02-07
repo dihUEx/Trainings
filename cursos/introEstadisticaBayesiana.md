@@ -1,5 +1,5 @@
 ---
-title: Curso de introducción a cuántica
+title: Principios fundamentales de la estadística bayesiana
 layout: default
 navigation_weight: 2
 

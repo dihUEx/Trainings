@@ -1,31 +1,23 @@
 ---
-title: Curso de introducción a cuántica
+title: Modelización de problemas lineales mediante grafos y redes. Aplicaciones.
 layout: default
 navigation_weight: 2
 
 ---
 
-En este curso se presentan los principios fundamentales del desarrollo del software cuántico.
+En este curso se presenta la modelización de problemas lineales mediante grafos y redes. Aplicaciones.
 
 
 
 ### Objetivos
-- Comprender los principios básicos del desarrollo de software cuántico
-- Familiarizarse con las puertas cuánticas básicas y sus aplicaciones
+- Proporcionar herramientas necesarias que permitan modelizar y formalizar problemas de diversa naturaleza en el campo de la ingeniería, mediante modelos matemáticos.
+- Resolver estos problemas de forma más simple, así como favorecer la toma de decisiones ante las distintas situaciones planteadas.
 
 ### Contenidos
-- Introducción a la programación cuántica
-  - Qubits
-  - Puertas cuánticas de un qubit
-  - Puertas cuánticas de múltiples qubits
- 
-- Primitivas cuánticas
-  - Aritmética y lógica
-  - Magnitud, fase y amplitud
-  - Transformada cuántica de Fourier
+- Este curso presenta los grafos y redes como estructuras matemáticas que permiten modelizar problemas que aparecen en distinto ámbito (cálculo de rutas óptimas, diseño de redes...) de forma gráfica. Se muestran además diferentes algoritmos de  optimización en redes para su posterior aplicación y la resolución mediante softwa-res apropiados, lo que ayudará en la toma de decisiones adecuadas ante situaciones previamente planteadas.
 
 ### Aforo
-- Más de 20 asistentes
+- De 10 a 20 asistentes
 
 ### Duración
 - De 4 a 8 horas
@@ -34,12 +26,11 @@ En este curso se presentan los principios fundamentales del desarrollo del softw
 - España
 
 ### Idiomas
-- Español e Inglés
+- Español
 
 ### Técnica
 - Conferencia
-- Ejercicios prácticos
-- Sesión práctica en el laboratorio
+- Talleres de Trabajo
 
 ### Canales disponibles
 - Cara a cara
