@@ -4,6 +4,15 @@ layout: default
 ---
 
 
+
+# Dirigido a:
+- Gestores, directivos de pequeñas y medianas empresas.
+- Equipos técnicos y de apoyo informático, tanto internalizadas en la empresa como dando servicios a diferentes organizaciones. 
+- Responsables departamento de IT, 
+- Responsables departamento operaciones/mantenimiento, 
+- Desarrolladores de tecnología.
+- Autónomos.
+
 # Programa de formación avanzada
 
 - [**Curso introducción a cuántica**](https://dihuex.github.io/trainings/cursos/cuantica.html)
