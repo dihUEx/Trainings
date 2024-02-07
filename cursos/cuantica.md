@@ -10,7 +10,7 @@ navigation_weight: 2
 En este curso se presentan los principios fundamentales del desarrollo del software cuántico.
 
 
-
+## Plazas Limitadas / Reserva tu plaza
 [**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
 
 ### Objetivos

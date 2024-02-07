@@ -3,9 +3,8 @@ title: Listado de Trainings
 layout: default
 ---
 
-Descripción del sitio
 
-# Trainings
+# Programa de formación avanzada
 
 - [**Curso introducción a cuántica**](https://dihuex.github.io/trainings/cursos/cuantica.html)
 
@@ -32,3 +31,6 @@ Descripción del sitio
 - [**Introducción a la programación**](https://dihuex.github.io/trainings/cursos/programacion.html)
 
 - [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
+
+
+
