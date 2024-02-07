@@ -16,7 +16,7 @@ layout: default
 - Ingenieros, operadores, directores y gerentes de planta.
 
 
-# Programa de Formación Avanzada para la Digitalización Empresarial en Extremadura
+# Preinscripciones abiertas en los siguiente cursos:
 
 - [**Curso introducción a cuántica**](https://dihuex.github.io/trainings/cursos/cuantica.html)
 
