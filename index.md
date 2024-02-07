@@ -9,4 +9,4 @@ Descripción del sitio
 
 - [**Curso introducción a cuántica**](https://dihuex.github.io/trainings/cursos/cuantica.html)
 
-- [**Curso introducción a Machine learning**](https://dihuex.github.io/trainings/cursos/cuantica.html)
+- [**Curso introducción a la estadística bayesiana**](https://dihuex.github.io/trainings/cursos/introEstadisticaBayesiana.html)
