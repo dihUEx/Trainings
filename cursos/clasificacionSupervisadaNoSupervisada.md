@@ -5,6 +5,8 @@ navigation_weight: 2
 
 ---
 
+# Técnicas de clasificación supervisada y no supervisada
+
 Introducción a las técnicas de clasificación supervisada y no supervisada. 
 
 
