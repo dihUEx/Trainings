@@ -8,11 +8,11 @@ layout: default
 # Dirigido a:
 - Gestores, directivos de pequeñas y medianas empresas.
 - Equipos técnicos y de apoyo informático, tanto internalizadas en la empresa como dando servicios a diferentes organizaciones. 
-- Responsables departamento de IT, 
-- Responsables departamento operaciones/mantenimiento, 
+- Responsables departamento de IT. 
+- Responsables departamento operaciones/mantenimiento. 
 - Desarrolladores de tecnología.
 - Autónomos.
-- Profesionales con perfil de ingeniero que quieran especializarse en este tipo de tecnologías
+- Profesionales con perfil de ingeniero que quieran especializarse en este tipo de tecnologías.
 - Ingenieros, operadores, directores y gerentes de planta.
 
 
