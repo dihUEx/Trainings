@@ -23,7 +23,3 @@ Descripción del sitio
 
 - [**Introducción al Deep Learning con Python**](https://dihuex.github.io/trainings/cursos/deepLearningPython.html)
 
-
-
-
-prediccionModelosRegresion
