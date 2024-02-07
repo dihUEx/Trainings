@@ -11,6 +11,8 @@ En este curso se presentan los principios fundamentales del desarrollo del softw
 
 
 
+[**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
+
 ### Objetivos
 - Comprender los principios básicos del desarrollo de software cuántico
 - Familiarizarse con las puertas cuánticas básicas y sus aplicaciones

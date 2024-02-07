@@ -11,6 +11,8 @@ En este curso se presenta la modelización de problemas lineales mediante grafos
 
 
 
+[**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
+
 ### Objetivos
 - Proporcionar herramientas necesarias que permitan modelizar y formalizar problemas de diversa naturaleza en el campo de la ingeniería, mediante modelos matemáticos.
 - Resolver estos problemas de forma más simple, así como favorecer la toma de decisiones ante las distintas situaciones planteadas.

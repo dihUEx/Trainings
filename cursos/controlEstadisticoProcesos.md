@@ -13,6 +13,8 @@ El control estadístico de procesos consiste en la aplicación de métodos estad
 
 
 
+[**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
+
 ### Objetivos
 - Comprender los fundamentos del control estadístico de procesos y la importancia de reducir la variabilidad de los procesos 
 - Planificar técnicas de muestreo apropiadas y determinar los tamaños muestrales

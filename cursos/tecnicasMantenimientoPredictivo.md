@@ -11,6 +11,8 @@ Todas las industrias poseen numerosos equipos o sistemas. Todos estos equipos fa
 
 
 
+[**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
+
 ### Objetivos
 -  Conocer los fundamentos del mantenimiento. 
 -  Reconocer estrategias de mantenimiento óptimas para diferentes tipos de sistemas. 

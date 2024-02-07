@@ -11,6 +11,8 @@ En este curso se presentan los principios fundamentales de la estadística bayes
 
 
 
+[**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
+
 ### Objetivos
 - El objetivo principal es dar a conocer las técnicas de inferencia bayesiana, así como su filosofía y sus principios. 
 

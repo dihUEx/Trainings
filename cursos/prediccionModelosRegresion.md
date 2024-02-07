@@ -11,6 +11,8 @@ Introducción a las técnicas de predicción mediante modelos de regresión
 
 
 
+[**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
+
 ### Objetivos
 -  Obtener una visión aplicada de los principales modelos de regresión que se utilizan de forma estándar con paquetes de análisis de datos.
 

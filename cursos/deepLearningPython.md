@@ -11,6 +11,8 @@ En los últimos años, dentro de la disciplina del aprendizaje automático, una 
 
 
 
+[**Formulario de inscripción**](https://forms.gle/LTZmEm6vzCd7Bkxq9)
+
 ### Objetivos
 - Conocer los elementos básicos que forman las arquitecturas del Deep Learning.
 - Adquirir una idea general sobre los modelos más populares.

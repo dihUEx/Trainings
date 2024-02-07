@@ -22,4 +22,3 @@ Descripción del sitio
 - [**Técnicas de clasificación supervisada y no supervisada**](https://dihuex.github.io/trainings/cursos/clasificacionSupervisadaNoSupervisada.html)
 
 - [**Introducción al Deep Learning con Python**](https://dihuex.github.io/trainings/cursos/deepLearningPython.html)
-
