@@ -54,7 +54,7 @@ layout: default
 
 - [**Introducción al cloud to thing**](https://dihuex.github.io/trainings/cursos/cloudToThing.html)
 
-- [**Introducción al diseño de software cuántico**](https://dihuex.github.io/trainings/cursos/Introducción al diseño de software cuántico.html)
+- [**Introducción al diseño de software cuántico**](https://dihuex.github.io/trainings/cursos/disenoSoftwareCuantica.html)
 
 
 
