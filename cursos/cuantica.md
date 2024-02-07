@@ -5,6 +5,8 @@ navigation_weight: 2
 
 ---
 
+# Curso de introducción a cuántica
+
 En este curso se presentan los principios fundamentales del desarrollo del software cuántico.
 
 

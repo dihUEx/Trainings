@@ -5,6 +5,8 @@ navigation_weight: 2
 
 ---
 
+# Control Estadístico de Procesos
+
 En este curso se presenta una introducción al control estadístico de procesos.
 
 El control estadístico de procesos consiste en la aplicación de métodos estadísticos con el objetivo de monitorizar un proceso productivo y detectar desviaciones respecto a unos ciertos parámetros de calidad para controlar los procesos de producción. 

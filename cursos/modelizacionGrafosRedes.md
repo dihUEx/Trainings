@@ -5,6 +5,8 @@ navigation_weight: 2
 
 ---
 
+# Modelización de problemas lineales mediante grafos y redes. Aplicaciones
+
 En este curso se presenta la modelización de problemas lineales mediante grafos y redes. Aplicaciones.
 
 

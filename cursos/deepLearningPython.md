@@ -5,6 +5,8 @@ navigation_weight: 2
 
 ---
 
+# Introducción al Deep Learning con Python
+
 En los últimos años, dentro de la disciplina del aprendizaje automático, una familia de modelos ha cobrado notoria importancia debido a su rendimiento y utilidad: los modelos "profundos" o Deep Learning. Este curso presenta una introducción a estos modelos. 
 
 

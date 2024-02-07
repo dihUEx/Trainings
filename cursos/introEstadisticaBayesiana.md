@@ -5,6 +5,8 @@ navigation_weight: 2
 
 ---
 
+# Principios fundamentales de la estadística bayesiana
+
 En este curso se presentan los principios fundamentales de la estadística bayesiana.
 
 
