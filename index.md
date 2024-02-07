@@ -12,6 +12,9 @@ layout: default
 - Responsables departamento operaciones/mantenimiento, 
 - Desarrolladores de tecnología.
 - Autónomos.
+- Profesionales con perfil de ingeniero que quieran especializarse en este tipo de tecnologías
+- Ingenieros, operadores, directores y gerentes de planta.
+
 
 # Programa de formación avanzada
 
