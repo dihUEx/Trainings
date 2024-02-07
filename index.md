@@ -44,5 +44,21 @@ layout: default
 
 - [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
 
+- [**Introducción a Digital Twin**](https://dihuex.github.io/trainings/cursos/digitalTwin.html)
+
+- [**Diseño de chatbots**](https://dihuex.github.io/trainings/cursos/disenoChatbots.html)
+
+- [**Introducción al aprendizaje profundo por refuerzo (DRL)**](https://dihuex.github.io/trainings/cursos/DRL.html)
+
+- [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
+
+- [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
+
+- [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
+
+- [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
+
+- [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
+
 
 

@@ -28,5 +28,25 @@ En este curso se presentan los principios fundamentales del desarrollo del softw
   - Magnitud, fase y amplitud
   - Transformada cuántica de Fourier
 
+### Aforo
+- Más de 20 asistentes
+
+### Duración
+- De 4 a 8 horas
+
+### País en donde está disponible
+- España
+
+### Idiomas
+- Español e Inglés
+
+### Técnica
+- Conferencia
+- Ejercicios prácticos
+- Sesión práctica en el laboratorio
+
+### Canales disponibles
+- Cara a cara
+- En línea
 
 
