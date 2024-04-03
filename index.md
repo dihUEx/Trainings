@@ -40,7 +40,7 @@ layout: default
 
 - [**Tecnología inclusiva**](https://dihuex.github.io/trainings/cursos/tecnologiaInclusiva.html)
 
-- [**Introducción a la programación**](https://dihuex.github.io/trainings/cursos/programacion.html)
+- [**Programación con Python**](https://dihuex.github.io/trainings/cursos/programacion.html)
 
 - [**Automatización para la mejora de la eficiencia de edificios**](https://dihuex.github.io/trainings/cursos/mejoraEficienciaEdificios.html)
 
