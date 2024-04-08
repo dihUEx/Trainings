@@ -5,7 +5,7 @@ navigation_weight: 2
 
 ---
 
-# Introducción a la programación 
+# Programación con Python 
 
 El programa está orientado a mejorar las conocimientos de los trabajadores de las empresas en el ámbido de la programación de computadores, con el fin de potenciar su competencia en el mercado laboral tecnológico.
 
